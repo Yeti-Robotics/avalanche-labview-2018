@@ -112,8 +112,8 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Auto Step Complete.vi" Type="VI" URL="../Auto Step Complete.vi"/>
-			<Item Name="Autotankdrive.vi" Type="VI" URL="../Autotankdrive.vi"/>
 			<Item Name="Drive Reset.vi" Type="VI" URL="../Drive Reset.vi"/>
+			<Item Name="DriveSpeed.vi" Type="VI" URL="../DriveSpeed.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="HighShift.vi" Type="VI" URL="../HighShift.vi"/>
 			<Item Name="Latch.vi" Type="VI" URL="../Latch.vi"/>
