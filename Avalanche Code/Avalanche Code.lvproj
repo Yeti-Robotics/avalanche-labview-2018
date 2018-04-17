@@ -116,7 +116,10 @@ AddOutputFilter chunkFilter
 			<Item Name="DriveSpeed.vi" Type="VI" URL="../DriveSpeed.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="HighShift.vi" Type="VI" URL="../HighShift.vi"/>
+			<Item Name="Intakeopen.vi" Type="VI" URL="../Intakeopen.vi"/>
 			<Item Name="Latch.vi" Type="VI" URL="../Latch.vi"/>
+			<Item Name="LiftUp.vi" Type="VI" URL="../LiftUp.vi"/>
+			<Item Name="wristup.vi" Type="VI" URL="../wristup.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
@@ -129,10 +132,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Intakeopen.vi" Type="VI" URL="../Intakeopen.vi"/>
-		<Item Name="LiftUp.vi" Type="VI" URL="../LiftUp.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="wristup.vi" Type="VI" URL="../wristup.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
